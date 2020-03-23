@@ -4,12 +4,12 @@
   <parent>
     <groupId>io.jitpack</groupId>
     <artifactId>example-root</artifactId>
-    <version>3.2</version>
+    <version>3.3-SNAPSHOT</version>
   </parent>
     
   <groupId>io.jitpack</groupId>
   <artifactId>module2</artifactId>
-  <version>3.2</version>
+  <version>3.3-SNAPSHOT</version>
   <name>module2</name>
   <url>http://maven.apache.org</url>
     
