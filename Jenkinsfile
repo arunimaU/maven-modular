@@ -18,7 +18,7 @@ pipeline {
      stage ('Release') 
      
      {steps{
-	        sh '/opt/maven/bin/mvn --batch-mode release:clean release:prepare release:perform '
+	        sh '/opt/maven/bin/mvn --batch-mode release:clean release:prepare release:perform -DreleaseVersion-3.4 -DmasterVersion-3.4-SNAPSHOT'
           }
           }
        }}
