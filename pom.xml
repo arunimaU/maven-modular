@@ -16,7 +16,7 @@
        <connection>scm:https://github.com/arunimaU/maven-modular.git</connection>
        <url>https://github.com/arunimaU/maven-modular.git</url>
        <developerConnection>scm:git:https://github.com/arunimaU/maven-modular.git</developerConnection>
-      <tag>head</tag>
+      <tag>2.0</tag>
   </scm>
 
 <distributionManagement>
