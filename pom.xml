@@ -4,7 +4,7 @@
   
   <groupId>io.jitpack</groupId>
   <artifactId>example-root</artifactId>
-  <version>2.0-SNAPSHOT</version>
+  <version>2.0</version>
   <packaging>pom</packaging>
   <name>example-root</name>
   
@@ -16,7 +16,7 @@
        <connection>scm:https://github.com/arunimaU/maven-modular.git</connection>
        <url>https://github.com/arunimaU/maven-modular.git</url>
        <developerConnection>scm:git:https://github.com/arunimaU/maven-modular.git</developerConnection>
-      <tag>rel-1.6</tag>
+      <tag>2.0</tag>
   </scm>
 
 <distributionManagement>
